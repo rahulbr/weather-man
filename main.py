@@ -3,7 +3,16 @@ Weather Man
 """
 
 def main():
-    print("Hello World")
+
+    # Start the camera.
+
+    # Capture an Image
+
+    # Save the file to disk
+
+    # Write log.
+
+    pass
 
 
 if __name__ == "__main__":
