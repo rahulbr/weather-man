@@ -5,8 +5,8 @@ Weather Man
 import cv2
 
 
-WIDTH = 640
-HEIGHT = 480
+WIDTH = 1920
+HEIGHT = 1080
 
 def main():
 
